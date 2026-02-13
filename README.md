@@ -1,16 +1,25 @@
-# Atividademax
-oi
+# Projeto Integrado – Desenvolvimento de Sistemas Móveis
+**Unidade de Estudos:** Engenharia de Software  
+**Semestre:** 2026.1  
 
-# PROJETO EMPRESARIAL
+## Equipe
+- Nome 1  
+- Nome 2  
+- Nome 3  
+- Nome 4  
 
-# PROBLEMA
+## Descrição do Projeto
+Breve texto sobre o problema e a solução.
 
-## PÚBLICO
+## Estrutura do Repositório
+- /docs – documentos e diagramas  
+- /src – código  
+- /tests – testes  
+- /design – protótipos  
 
-## OBJETIVO
+## Processo de Desenvolvimento
+- Modelo: Ágil  
+- Branches: main / develop / feature  
 
-- Objetivo 1
-
-- Objetivo 2
-
-- Objetivo 3
+## Backlog
+Criado no GitHub Projects.
